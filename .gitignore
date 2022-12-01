@@ -1,3 +1,4 @@
 openapitools.json
 /dist
 /tmp
+node_modules
